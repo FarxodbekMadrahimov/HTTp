@@ -1,0 +1,17 @@
+C:\Users\farho\source\repos\http\http\bin\Debug\net7.0\http.exe
+C:\Users\farho\source\repos\http\http\bin\Debug\net7.0\http.deps.json
+C:\Users\farho\source\repos\http\http\bin\Debug\net7.0\http.runtimeconfig.json
+C:\Users\farho\source\repos\http\http\bin\Debug\net7.0\http.dll
+C:\Users\farho\source\repos\http\http\bin\Debug\net7.0\http.pdb
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.AssemblyInfoInputs.cache
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.AssemblyInfo.cs
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.csproj.CoreCompileInputs.cache
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.dll
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\refint\http.dll
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.pdb
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.genruntimeconfig.cache
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\ref\http.dll
+C:\Users\farho\source\repos\http\http\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.csproj.AssemblyReference.cache
+C:\Users\farho\source\repos\http\http\obj\Debug\net7.0\http.csproj.CopyComplete
